@@ -1,2 +1,2 @@
 # Solana-tests
-Solana development
+Solana Smart contract development
